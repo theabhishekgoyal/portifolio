@@ -1,6 +1,6 @@
 // server.js
 
-require('dotenv').config(); // Load environment variables from .env file
+require('dotenv').config();
 const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
